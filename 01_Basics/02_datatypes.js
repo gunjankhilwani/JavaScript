@@ -4,7 +4,7 @@ let name = "Gunjan"
 let age = 18
 let isLoggedIn = false
 
-//datatypes:
+// primitive datatypes:
 // number : 2 to power 53
 // string : " " or ''
 // boolen : true false
@@ -17,3 +17,6 @@ console.log(typeof "gunjan");
 console.log(typeof age);
 console.log(typeof null);
 console.log(typeof undefined);
+
+//non primitive
+// object
